@@ -1,0 +1,11 @@
+C:\Users\Alessio\csharp\DrinkDrunkDRUNK\bin\Debug\netcoreapp2.2\DrinkDrunkDRUNK.deps.json
+C:\Users\Alessio\csharp\DrinkDrunkDRUNK\bin\Debug\netcoreapp2.2\DrinkDrunkDRUNK.runtimeconfig.json
+C:\Users\Alessio\csharp\DrinkDrunkDRUNK\bin\Debug\netcoreapp2.2\DrinkDrunkDRUNK.runtimeconfig.dev.json
+C:\Users\Alessio\csharp\DrinkDrunkDRUNK\bin\Debug\netcoreapp2.2\DrinkDrunkDRUNK.dll
+C:\Users\Alessio\csharp\DrinkDrunkDRUNK\bin\Debug\netcoreapp2.2\DrinkDrunkDRUNK.pdb
+C:\Users\Alessio\csharp\DrinkDrunkDRUNK\obj\Debug\netcoreapp2.2\DrinkDrunkDRUNK.csprojAssemblyReference.cache
+C:\Users\Alessio\csharp\DrinkDrunkDRUNK\obj\Debug\netcoreapp2.2\DrinkDrunkDRUNK.csproj.CoreCompileInputs.cache
+C:\Users\Alessio\csharp\DrinkDrunkDRUNK\obj\Debug\netcoreapp2.2\DrinkDrunkDRUNK.AssemblyInfoInputs.cache
+C:\Users\Alessio\csharp\DrinkDrunkDRUNK\obj\Debug\netcoreapp2.2\DrinkDrunkDRUNK.AssemblyInfo.cs
+C:\Users\Alessio\csharp\DrinkDrunkDRUNK\obj\Debug\netcoreapp2.2\DrinkDrunkDRUNK.dll
+C:\Users\Alessio\csharp\DrinkDrunkDRUNK\obj\Debug\netcoreapp2.2\DrinkDrunkDRUNK.pdb
